@@ -1,0 +1,61 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.xero-background {
+    background-color: #13B5EA;
+    border-radius: 25px;
+    min-height: 875px;
+    box-shadow: -2px 5px 15px 5px rgba(0,0,0,0.42)
+}
+.graphs {
+  padding: 5%;
+  background-color: white;
+}
+.graph_display {
+    padding: 3% 0% 5% 3%;
+    color: #101010;
+    
+}
+h1 {
+    font-weight: bold;
+    text-shadow: 2px 2px 5px #d0d0d0;
+}
+.nav-item .active {
+    background-color: white !important;
+    color: black !important;
+    border: -1px #3f444d5e !important;
+    font-weight: bold;
+}
+.xero-background .nav-item .nav-link {
+    background-color: #95c2cc;
+    border-radius: 5px 15px 0 0;
+    font-weight: bold;
+}
+
+.text-paragraph {
+    padding: 3% 0% 5% 3%;
+    font-size: 2em;
+}
+.title-header {
+    padding: 3% 0% 5% 3%;
+}
+.nav-tabs {
+    border-bottom: 1px solid #3f444d5e;
+    position: absolute;
+    margin-top: -43px;
+}
+.text-display {
+  padding: 25%;
+}
